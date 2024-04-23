@@ -4,4 +4,12 @@
 }
 body {
   margin: 0px;
+  background-color: #0b0b0b;
+  box-sizing: border-box;
+  max-width: 100%;
+  padding: 0px 50px;
 }
+
+/* color palette 
+Night + Goldenrod + Cosmic Latte
+Hex Codes: #0B0B0B, #D3A121, #FAF4E4 */

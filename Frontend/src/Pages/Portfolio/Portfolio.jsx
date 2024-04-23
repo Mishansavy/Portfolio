@@ -1,5 +1,11 @@
 import React from "react";
+import { Header } from "../../Components/Header/Header";
 
 export const Portfolio = () => {
-  return <div>Portfolio</div>;
+  return (
+    <>
+      <Header />
+      <div style={{ color: "#fff" }}>Portfolio</div>
+    </>
+  );
 };

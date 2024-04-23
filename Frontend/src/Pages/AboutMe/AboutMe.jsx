@@ -1,5 +1,11 @@
 import React from "react";
+import { Header } from "../../Components/Header/Header";
 
 export const AboutMe = () => {
-  return <div>AboutMe</div>;
+  return (
+    <>
+      <Header />
+      <div style={{ color: "#fff" }}>AboutMe</div>
+    </>
+  );
 };
